@@ -1,6 +1,12 @@
-# How Social Media Uses Neural Networks to Keep You Scrolling
-A beginner’s guide to Neural Networks
+# Neural Networks for Beginners 📝
 
-This article dives into the technical components behind neural networks and how social media algorithms leverage them for their apps. This is a 10-minute read, suitable for those who have absolutely no knowledge on AI or ML.
+Click [here](https://medium.com/@armaang/how-social-media-uses-neural-networks-to-keep-you-scrolling-f9e446c4d53d) to view the article.
 
-[Click here to view the article](https://medium.com/@armaang/how-social-media-uses-neural-networks-to-keep-you-scrolling-f9e446c4d53d).
+This article dives into the basics of neural networks through real-world examples of how social media platforms leverage them to keep users engaged. Topics covered include, but are not limited to:
+
+*  Neural Network Layers
+*  Training
+*  The Sigmoid Logistic Function
+*  The ReLu Function
+
+This is a `10-minute read` and is suitable for those who have absolutely no knowledge on AI or ML! ⚙️
